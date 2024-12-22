@@ -3,6 +3,8 @@
 ## Built with 
 - [Angular](https://angular.dev/) hosted on [Netlify](https://www.netlify.com/)
   - [Angular on Netlify](https://docs.netlify.com/frameworks/angular/)
+  - [AG Grid](https://www.ag-grid.com/)
+  - [Taiga UI](https://taiga-ui.dev/)
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/)
 
 ## Docs
